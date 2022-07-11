@@ -1,0 +1,11 @@
+.card{
+    text-align: center;
+}
+.dateHeading{
+    position: absolute;
+}
+.navbar{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
