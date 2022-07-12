@@ -16,3 +16,11 @@ nav{
 body{
     font-family: 'Oswald', sans-serif;
 }
+.goback{
+    position: fixed;
+    bottom:100px;
+    right: 10px;
+    color: #FFC107;
+    background-color: black;
+    border-radius: 50%;
+}
