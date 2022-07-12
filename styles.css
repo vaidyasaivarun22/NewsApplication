@@ -4,8 +4,15 @@
 .dateHeading{
     position: absolute;
 }
+.cardBody{
+    background-color: black;
+    color: whitesmoke;
+}
 nav{
     position: fixed;
     top:0px;
     width: 100%;
+}
+body{
+    font-family: 'Oswald', sans-serif;
 }
