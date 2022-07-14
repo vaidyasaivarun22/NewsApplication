@@ -1,5 +1,239 @@
 {
     "articles":[
+         {
+            "author":null,
+            "content":null,
+            "description":"#m2 #Macbook Air #M1 #Laptops #MacOS #Unbox #TechToday #Aayush Ailawadi Apple refers to the Macbook Air as the “world’s best-selling laptop”.  And its in hou...",
+            "publishedAt":"2022-07-14T14:46:15Z",
+            "source":{
+               "id":null,
+               "name":"YouTube"
+            },
+            "title":"Unbox Today: The Macbook Air M2 Is Here! - Business Today",
+            "url":"https://www.youtube.com/watch?v=Rf6asRxCojI",
+            "urlToImage":"https://i.ytimg.com/vi/Rf6asRxCojI/hqdefault.jpg"
+         },
+         {
+            "author":"Shivani Naik",
+            "content":"For Saina Nehwal, her non-selection for the Commonwealth Games was not about desperation to play at the Games: she has two gold medals from 2010 and 2018 editions. “It’s about the amount of disrespec… [+4381 chars]",
+            "description":"Kashyap says that Nehwal's omission from the Badminton contingent going to Birmingham has led to frequent breakdowns for the former World No. 1.",
+            "publishedAt":"2022-07-14T14:44:46Z",
+            "source":{
+               "id":null,
+               "name":"The Indian Express"
+            },
+            "title":"Husband-coach Kashyap on Saina Nehwal's CWG non-selection: 'It's about your own people treating you like s*#@.' - The Indian Express",
+            "url":"https://indianexpress.com/article/sports/badminton/husband-coach-kashyap-on-saina-nehwals-cwg-non-selection-8028993/",
+            "urlToImage":"https://images.indianexpress.com/2022/07/saina-nehwal-1.jpg"
+         },
+         {
+            "author":"Mathrubhumi",
+            "content":"India reported the first case of monkeypox in Kerala on Thursday. Health authorities across the globe have identified hundreds of cases of monkeypox in recent days.\r\nOfficials are keeping watch for m… [+5290 chars]",
+            "description":"India reported the first case of monkeypox in Kerala on Thursday. Health authorities across the globe have identified hundreds of cases of monkeypox in recent days.Officials are keeping watch for more cases because, for the first time, the rare disease appear…",
+            "publishedAt":"2022-07-14T14:42:43Z",
+            "source":{
+               "id":null,
+               "name":"Mathrubhumi.com"
+            },
+            "title":"All you need to know about monkeypox - Mathrubhumi English",
+            "url":"https://english.mathrubhumi.com/features/health/all-we-need-to-know-about-monkeypox-kerala-reports-first-case-1.7693291",
+            "urlToImage":"https://english.mathrubhumi.com/image/contentid/policy:1.7529365:1652959485/FTFZ4QfXwAA_WT4.jfif?$p=4ff837c&f=16x9&w=1080&q=0.8"
+         },
+         {
+            "author":"Express Web Desk",
+            "content":"Global precedents underscore how palace occupations have coincided with major shifts in global history.\r\n In colonial Mexico, Spanish viceroys lived in the opulent palace on the edge of the Mexico Ci… [+1673 chars]",
+            "description":"Sri Lanka crisis Live Updates: The President Gotabaya Rajapaksa and his wife are expected to fly from Maldives to Singapore. PM Ranil Wickremesinghe is the acting president.",
+            "publishedAt":"2022-07-14T14:16:21Z",
+            "source":{
+               "id":null,
+               "name":"The Indian Express"
+            },
+            "title":"Sri Lanka crisis Live Updates: Sri Lanka president Rajapaksa emails resignation letter to parliamentary speaker - The Indian Express",
+            "url":"https://indianexpress.com/article/world/sri-lanka-crisis-live-updates-rajapaksha-protests-8027900/",
+            "urlToImage":"https://images.indianexpress.com/2022/07/rajapaksa.jpg"
+         },
+         {
+            "author":null,
+            "content":"Daler Mehndi's bail plea, request to be released on probation rejected too; sent to Patiala jail.\r\nPatiala: Singer Daler Mehndi's appeal against a two-year prison term in a 2003 case of human traffic… [+2225 chars]",
+            "description":"Daler Mehndi, brother illegally sent people abroad by showing them as troupe members; complainant says they took money but didn't send him abroad",
+            "publishedAt":"2022-07-14T13:06:45Z",
+            "source":{
+               "id":null,
+               "name":"NDTV News"
+            },
+            "title":"Daler Mehndi Gets 2-Year Jail In 2003 Human Trafficking Case In Patiala - NDTV",
+            "url":"https://www.ndtv.com/india-news/daler-mehndi-sentenced-to-jail-for-2-years-in-2003-human-trafficking-case-3157717",
+            "urlToImage":"https://c.ndtvimg.com/2022-07/3u37dong_daler-mehndi-650_650x400_14_July_22.jpg"
+         },
+         {
+            "author":"TIMESOFINDIA.COM",
+            "content":"The BA.4 and BA.5 symptoms look similar to previous omicron sub variants. People recover faster and most of the infections aren’t as severe as earlier COVID-19 strains. If a serious case develops, th… [+607 chars]",
+            "description":"The newer sub variants can evade immunity despite vaccination or previous infections.",
+            "publishedAt":"2022-07-14T12:30:00Z",
+            "source":{
+               "id":"the-times-of-india",
+               "name":"The Times of India"
+            },
+            "title":"Coronavirus: This is the worst omicron symptom due to rising BA.5 variant - Times of India",
+            "url":"https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-this-is-the-worst-omicron-symptom-due-to-rising-ba-5-variant/photostory/92876430.cms",
+            "urlToImage":"https://static.toiimg.com/photo/msid-92876928.cms"
+         },
+         {
+            "author":"Nikhil Agarwal",
+            "content":"NEW DELHI: Indias largest insurer (LIC) on Thursday reported its embedded value at Rs 5.41 lakh crore as of March 31 2022. It also announced that the value of its new business (VNB) margin for FY22 i… [+1696 chars]",
+            "description":"“As on March 31, 2022, the IEV (Indian embedded value) of LIC of India has been determined to be Rs 5,41,492 crore as compared to Rs 95,605 crore on March 31, 2021, and Rs 5,39,686 crore on September 30, 2021. The IEV as of September 30, 2021, was significant…",
+            "publishedAt":"2022-07-14T12:09:00Z",
+            "source":{
+               "id":"the-times-of-india",
+               "name":"The Times of India"
+            },
+            "title":"LIC reports Rs 5.41 lakh crore embedded value in FY22-end - Economic Times",
+            "url":"https://economictimes.indiatimes.com/markets/stocks/news/lic-reports-rs-5-41-lakh-crore-embedded-value-in-fy22-end/articleshow/92877649.cms",
+            "urlToImage":"https://img.etimg.com/thumb/msid-92877917,width-1070,height-580,imgsize-42234,overlay-etmarkets/photo.jpg"
+         },
+         {
+            "author":"HT News Desk",
+            "content":"Amid the row over the questioning of the Lok Sabha secretariat by the Opposition over words listed as \"unparliamentary\", Lok Sabha Speaker Om Birla on Thursday clarified that no word has been banned … [+1849 chars]",
+            "description":"Several senior members of Parliament criticised the report of the Lok Sabha secretariat which released a list of words that have been designated as \"unparliamentary\". | Latest News India",
+            "publishedAt":"2022-07-14T11:57:51Z",
+            "source":{
+               "id":null,
+               "name":"Hindustan Times"
+            },
+            "title":"Unparliamentary language row: 'No word is banned, but…', clarifies Om Birla - Hindustan Times",
+            "url":"https://www.hindustantimes.com/india-news/unparliamentary-words-row-no-word-is-banned-it-is-expunged-clarifies-om-birla-101657798816211.html",
+            "urlToImage":"https://images.hindustantimes.com/img/2022/07/14/1600x900/PTI07-14-2022-000162A-0_1657799670900_1657799670900_1657799691721_1657799691721.jpg"
+         },
+         {
+            "author":"Vijay Anand",
+            "content":"MiniFor better or for worse, a few brands/companies around the world have become synonymous with the names and personalities of their founders or leaders Bill Gates and Microsoft, Jeff Bezos and Amaz… [+84 chars]",
+            "description":"For better or for worse, a few brands/companies around the world have become synonymous with the names and personalities of their founders or leaders — Bill Gates and Microsoft, Jeff Bezos and Amazon, Elon Musk and Tesla, Apple and the late Steve Jobs and now…",
+            "publishedAt":"2022-07-14T11:54:38Z",
+            "source":{
+               "id":null,
+               "name":"CNBCTV18"
+            },
+            "title":"View | Carl Pei and the inevitable — and arguably unfair — comparisons to Steve Jobs - CNBCTV18",
+            "url":"https://www.cnbctv18.com/views/view-carl-pei-and-the-inevitable-and-arguably-unfair-comparisons-to-steve-jobs-14131902.htm",
+            "urlToImage":"https://images.cnbctv18.com/wp-content/uploads/2022/05/Carl-Pei-Nothing_1-1019x573.jpg"
+         },
+         {
+            "author":"Sports Desk",
+            "content":"BCCI have announced India’s squad for the upcoming T20I series against West Indies which is set to take place from July 29. Rohit Sharma will be leading the side.As reported by The Indian Express thi… [+1340 chars]",
+            "description":"As reported by The Indian Express this morning, Virat Kohli and Jasprit Bumrah have been rested for the upcoming T20I series against West Indies.",
+            "publishedAt":"2022-07-14T11:43:51Z",
+            "source":{
+               "id":null,
+               "name":"The Indian Express"
+            },
+            "title":"India's T20I squad for West Indies series announced; KL Rahul, Kuldeep Yadav, R Ashwin picked - The Indian Express",
+            "url":"https://indianexpress.com/article/sports/cricket/bcci-announce-t20-squad-against-west-indies-8028993/",
+            "urlToImage":"https://images.indianexpress.com/2022/07/RO-sharma-2.jpg"
+         },
+         {
+            "author":null,
+            "content":null,
+            "description":null,
+            "publishedAt":"2022-07-14T11:43:39Z",
+            "source":{
+               "id":"google-news",
+               "name":"Google News"
+            },
+            "title":"Oppo Pad Air, Oppo Enco X2 wireless earbuds to launch in India on July 18 alongside Oppo Reno 8 series: Details - The Financial Express",
+            "url":"https://news.google.com/__i/rss/rd/articles/CBMiqwFodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9pbmR1c3RyeS90ZWNobm9sb2d5L29wcG8tcGFkLWFpci1vcHBvLWVuY28teDItd2lyZWxlc3MtZWFyYnVkcy10by1sYXVuY2gtaW4taW5kaWEtb24tanVseS0xOC1hbG9uZ3NpZGUtb3Bwby1yZW5vLTgtc2VyaWVzLWRldGFpbHMvMjU5NDI0Ny_SAQA?oc=5",
+            "urlToImage":null
+         },
+         {
+            "author":"Lifestyle Desk",
+            "content":"Cervavac, India’s first quadrivalent human papillomavirus vaccine (gHPV), recently received a nod for market authorisation by the Drugs Controller General of India. Developed by the Serum Insitute of… [+3741 chars]",
+            "description":"Experts share the best age group for taking this vaccine for better protection against cervical cancer",
+            "publishedAt":"2022-07-14T11:30:04Z",
+            "source":{
+               "id":null,
+               "name":"The Indian Express"
+            },
+            "title":"Cervical cancer: What is the right age to take the HPV vaccine? - The Indian Express",
+            "url":"https://indianexpress.com/article/lifestyle/health/hpv-vaccine-cervical-cancer-serum-institute-best-age-group-efficacy-8028640/",
+            "urlToImage":"https://images.indianexpress.com/2022/07/cervical-cancer_1200.jpg"
+         },
+         {
+            "author":"Express Web Desk",
+            "content":"The United Arab Emirates on Thursday announced an investment of USD 2 billion to develop a series of integrated food parks across India as part of efforts by the four-nation grouping I2U2 (India-Isra… [+4426 chars]",
+            "description":"The statement also said the I2U2 group will advance hybrid renewable energy project in Gujarat consisting of 300 megawatts of wind and solar capacity.",
+            "publishedAt":"2022-07-14T11:24:55Z",
+            "source":{
+               "id":null,
+               "name":"The Indian Express"
+            },
+            "title":"I2U2 summit: UAE to invest $2 billion to develop integrated food parks across India - The Indian Express",
+            "url":"https://indianexpress.com/article/india/i2u2-summit-uae-to-invest-2-billion-to-develop-integrated-food-parks-across-india-8029382/",
+            "urlToImage":"https://images.indianexpress.com/2019/08/narendramodi-uae-1200.jpg"
+         },
+         {
+            "author":"Subhayan Chakraborty",
+            "content":"India's merchandise trade deficit rose to a record $26.1 billion in June 2022, 172 percent higher than June 2021 as a continuing global commodity supercycle kept the prices of key energy and metal im… [+3639 chars]",
+            "description":"The massive rise comes as a result of refined petroleum imports almost doubling to $21 billion in June, while coal imports shot up by 260 percent.",
+            "publishedAt":"2022-07-14T11:13:57Z",
+            "source":{
+               "id":null,
+               "name":"Moneycontrol"
+            },
+            "title":"Trade deficit rises to record $26.1 billion in June as imports surge, up 172% YoY - Moneycontrol",
+            "url":"https://www.moneycontrol.com/news/business/economy/trade-deficit-rises-to-26-1-billion-in-june-as-imports-surge-up-172-yoy-8828261.html",
+            "urlToImage":"https://images.moneycontrol.com/static-mcnews/2022/06/exports-770x433.jpg"
+         },
+         {
+            "author":"TIMESOFINDIA.COM",
+            "content":"",
+            "description":"At this price point, the Samsung smartphone will face competition from Realme 9 5G which is priced at Rs 15,999. Wondering which is a better 5G smartp",
+            "publishedAt":"2022-07-14T11:13:00Z",
+            "source":{
+               "id":"the-times-of-india",
+               "name":"The Times of India"
+            },
+            "title":"Samsung Galaxy M13 5G vs Realme 9 5G: How the two 5G smartphones compare - Times of India",
+            "url":"https://timesofindia.indiatimes.com/gadgets-news/samsung-galaxy-m13-5g-vs-realme-9-5g-how-the-two-5g-smartphones-compare/articleshow/92875515.cms",
+            "urlToImage":"https://static.toiimg.com/thumb/msid-92876368,width-1070,height-580,imgsize-20438,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+         },
+        {
+            "author":null,
+            "content":"Rishi Sunak won the most votes in the second round of voting.\r\nLondon: Former finance minister Rishi Sunak cemented his lead over rivals to become Britain's next prime minister on Thursday in an incr… [+3776 chars]",
+            "description":"Former finance minister Rishi Sunak cemented his lead over rivals to become Britain's next prime minister on Thursday in an increasingly bitter race to replace Boris Johnson.",
+            "publishedAt":"2022-07-14T15:07:00Z",
+            "source":{
+               "id":null,
+               "name":"NDTV News"
+            },
+            "title":"Rishi Sunak Tops Second Round Of Voting To Succeed Boris Johnson As UK PM - NDTV",
+            "url":"https://www.ndtv.com/world-news/rishi-sunak-tops-second-round-of-voting-to-succeed-boris-johnson-as-uk-pm-3158441",
+            "urlToImage":"https://c.ndtvimg.com/2021-08/urn5beog_rishi-sunak-reuters-650_625x300_09_August_21.jpg"
+         },
+        {
+        "author":null,
+        "content":"Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later",
+        "description":null,
+        "publishedAt":"2022-07-14T15:54:26Z",
+        "source":{
+            "id":null,
+            "name":"YouTube"
+        },
+        "title":"Zoom Into the Southern Ring Nebula (NIRCam Image) - HubbleWebbESA",
+        "url":"https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvcXYKvehot4",
+        "urlToImage":null
+    },
+    {
+        "author":"NDTV Sports Desk",
+        "content":"India vs England, 2nd ODI Live Score Updates: England are six wickets down against India in the ongoing second ODI at the Lord's Cricket Stadium in London. The hosts lost three quick wickets after th… [+1388 chars]",
+        "description":"IND vs ENG 2nd ODI Live Score Updates: England are six wickets down against India in the ongoing second ODI at the Lord's Cricket Stadium in London.",
+        "publishedAt":"2022-07-14T14:27:29Z",
+        "source":{
+           "id":null,
+           "name":"NDTV News"
+        },
+        "title":"India vs England 2nd ODI LIVE Score: Liam Livingstone Falls After Brisk Knock, England 6 Down vs India - NDTV Sports",
+        "url":"https://sports.ndtv.com/england-vs-india-2022/england-vs-india-2nd-odi-2022-live-score-updates-3157178",
+        "urlToImage":"https://c.ndtvimg.com/2022-07/9en7lmv8_moeen-ali-afp_625x300_14_July_22.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=675"
+     },
     {
         "author": null,
         "content": "\"50-over cricket is an extension of T20 cricket,\" Rohit Sharma said © BCCI\r\nWith matches coming thick and fast, a week can seem like a long time. On July 5, England had their epoch-making moment in T… [+5036 chars]",
@@ -9,6 +243,32 @@
         "url": "https://www.cricbuzz.com/cricket-news/123027/india-look-to-expand-batting-blueprint-to-odis-against-england",
         "urlToImage": "http://www.cricbuzz.com/a/img/v1/600x400/i1/c238392/50-over-cricket-is-an-extensi.jpg"
     },
+    {
+        "author":"PTI",
+        "content":"In a gruesome incident, a Pakistani man has allegedly killed and boiled his wife in a cauldron in front of his six children here in the country's Sindh province, a media report said on Thursday.\r\nPol… [+1733 chars]",
+        "description":"Police on Wednesday found Nargis's body in a cauldron in the kitchen of a private school in Gulshan-e-Iqbal area of the city after her husband boiled her on Wednesday, Geo News reported. | World News",
+        "publishedAt":"2022-07-14T15:34:35Z",
+        "source":{
+           "id":null,
+           "name":"Hindustan Times"
+        },
+        "title":"Pakistan man boils wife in cauldron in front of his children - Hindustan Times",
+        "url":"https://www.hindustantimes.com/world-news/pakistan-man-boils-wife-in-cauldron-in-front-of-his-children-101657812548946.html",
+        "urlToImage":"https://images.hindustantimes.com/img/2022/07/14/1600x900/_b1c489fe-1922-11e7-aa2a-1591876ff7cf_1657812708130_1657812708130.jpg"
+     },
+     {
+        "author":"Entertainment Desk",
+        "content":"Bollywood actress Sushmita Sen is dating businessman and IPL founder Lalit Modi. Lalit professed his love for the Bollywood diva on Thursday through social media. Sharing a series of clicks on Twitte… [+1219 chars]",
+        "description":"IPL founder Lalit Modi on Thursday announced that he is dating Bollywood actress Sushmita Sen.",
+        "publishedAt":"2022-07-14T15:10:50Z",
+        "source":{
+           "id":null,
+           "name":"The Indian Express"
+        },
+        "title":"Sushmita Sen is dating Lalit Modi, see pictures - The Indian Express",
+        "url":"https://indianexpress.com/article/entertainment/bollywood/sushmita-sen-is-dating-lalit-modi-8029770/",
+        "urlToImage":"https://images.indianexpress.com/2022/07/sushmit-sen-modi-1200.jpg"
+     },
     {
         "author": "Moneycontrol News",
         "content": "The Reserve Bank of India (RBI) on July 11 said that it was putting in place a mechanism to settle international trade in rupees.\r\nThe central banks move, which it said was to promote growth of globa… [+2991 chars]",

@@ -117,7 +117,7 @@ const fetchHeadlinesNews = async ()=>{
     {
         const myJson = await response.json();
         newsDataArr = myJson.articles;
-        console.log("headlines news"+newsDataArr);
+        console.log(newsDataArr);
     }
     else
     {
