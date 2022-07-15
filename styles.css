@@ -24,3 +24,14 @@ body{
     background-color: black;
     border-radius: 50%;
 }
+#myFirstDialog{
+    z-index: 1;
+    position: fixed; /* or absolute */
+    top: 50%;
+}
+#hide{
+    background-color: #FFC107;
+    color: black;
+    border-radius: 5px;
+    font-weight: 700;
+}
