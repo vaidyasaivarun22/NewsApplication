@@ -19,6 +19,7 @@
 <body class="m-0 p-0">
     <a id="up"></a>
     <div class="container-fluid m-0 p-0">
+      
         <!-- NavBar -->
         <div class="main">
             <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark extra">
@@ -59,8 +60,14 @@
                 </div>
               </nav>
         </div>
-        
         </div>
+        <div class="header">
+          <h2 class="text-center bg-black text-light m-2">DailyNewsTracker<span class="text-warning">&#174;</span></h2>
+          <div class="progress-container">
+            <div class="progress-bar" id="myBar" value="0" max="100"></div>
+          </div>
+        </div>
+        <div class="content m-3">
           <!-- News -->
           <div>
               <div class="row" id="newsType">
@@ -71,17 +78,17 @@
               </div>
           </div>
 
-        <form name="form1">
-          <div class="text-center m-3" id="dialogBox">  
-            <dialog id="myFirstDialog" style="width:50%;background-color:#F4FFEF;border:1px dotted black;">  
-            <h6>You Will Be Now Notified With Latest News and We Assure to Keep You Updated.</h6>  
-            <button id="hide">Great</button>  
-            </dialog>
-            <input id="em" type="email" name="e-mail" placeholder="Enter Your Email Here" style="border-radius: 5px;">
-            <button id="show" type="submit" class="bg-warning checkout-button" style="border-radius: 5px;" >Subscribe</button>   
-          </div> 
-        </form>
-        <h6 class="text-center"><span style="color: crimson;">*</span> Subscribe to get Latest News ongo.</h6>
+          <form name="form1">
+            <div class="text-center m-3" id="dialogBox">  
+              <dialog id="myFirstDialog" style="width:50%;background-color:#F4FFEF;border:1px dotted black;">  
+              <h6>You Will Be Now Notified With Latest News and We Assure to Keep You Updated.</h6>  
+              <button id="hide">Great</button>  
+              </dialog>
+              <input id="em" type="email" name="e-mail" placeholder="Enter Your Email Here" style="border-radius: 5px;">
+              <button id="show" type="submit" class="bg-warning checkout-button" style="border-radius: 5px;" >Subscribe</button>   
+            </div> 
+          </form>
+          <h6 class="text-center"><span style="color: crimson;">*</span> Subscribe to get Latest News ongo.</h6>
         <!-- Footer -->
         <div class="mt-5">
           <div>
@@ -94,8 +101,9 @@
                   <h5 class="text-light me-auto ms-auto">DailyNewsTracker<span class="text-warning">&#174;</span></h5>
                 </div>
               </nav>
+          </div>
         </div>
-    </div>
+      </div>
 
     <!-- Linked to external javascript file -->
     <script src="code.js"></script>
