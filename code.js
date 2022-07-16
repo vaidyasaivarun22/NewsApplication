@@ -316,13 +316,28 @@ function displayNews()
         
     });
 }
-(function() {    
+const disableButton = true;
+const button1 = document.getElementById('show');
+
+(function() {   
+
     var dialog = document.getElementById('myFirstDialog');    
-    document.getElementById('show').onclick = function() {  
-    dialog.show();    
-    document.getElementById('em').value = "";
+    document.getElementById('show').onclick = function() { 
+    var empt = document.forms["form1"]["e-mail"].value;
+    if (empt.length == 0)
+    {
+        alert("Please Enter your Email before you click Subscribe button.");
+    }
+    else if(disableButton) 
+    {
+        button1.disabled = "disabled"; 
+        dialog.show();   
+        document.getElementById('em').value = "";
+        disableButton = false;
+    }
     };    
     document.getElementById('hide').onclick = function() {    
         dialog.close();    
     };    
 })(); 
+
