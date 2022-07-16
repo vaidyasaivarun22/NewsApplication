@@ -24,6 +24,10 @@ body{
     background-color: black;
     border-radius: 50%;
 }
+.goback:visited{
+    color: #FFC107;
+    background-color: black;
+}
 #myFirstDialog{
     z-index: 1;
     position: fixed; /* or absolute */
