@@ -60,12 +60,12 @@ body{
   .progress-container {
     width: 100%;
     height: 8px;
-    background: #ccc;
+    background: black;
   }
   
   /* The progress bar (scroll indicator) */
-  .progress-bar {
+  #myBar{
     height: 8px;
-    background: #04AA6D;
+    background: #FFC107;
     width: 0%;
   }
