@@ -92,8 +92,8 @@ searchBtn.addEventListener("click",function()
 // asynchronous function to fetch the data by hitting the API's url
 // for General News
 const fetchGeneralNews = async ()=>{
-    const response = await fetch(GENERAL_NEWS+API_KEY);
-    // const response = await fetch("assets/general.json");
+    // const response = await fetch(GENERAL_NEWS+API_KEY);
+    const response = await fetch("assets/general.json");
     newsDataArr = [];
     if(response.status >= 200 && response.status < 300)
     {
@@ -110,8 +110,8 @@ const fetchGeneralNews = async ()=>{
 }
 // for Headlines News
 const fetchHeadlinesNews = async ()=>{
-    const response = await fetch(HEADLINES_NEWS+API_KEY);
-    // const response = await fetch("assets/headlines.json");
+    // const response = await fetch(HEADLINES_NEWS+API_KEY);
+    const response = await fetch("assets/headlines.json");
     newsDataArr = [];
     if(response.status >= 200 && response.status < 300)
     {
@@ -128,8 +128,8 @@ const fetchHeadlinesNews = async ()=>{
 }
 // for Business News
 const fetchBusinessNews = async ()=>{
-    const response = await fetch(BUSINESS_NEWS+API_KEY);
-    // const response = await fetch("assets/business.json");
+    // const response = await fetch(BUSINESS_NEWS+API_KEY);
+    const response = await fetch("assets/business.json");
     newsDataArr = [];
     if(response.status >= 200 && response.status < 300)
     {
@@ -146,8 +146,8 @@ const fetchBusinessNews = async ()=>{
 }
 // for Health News
 const fetchHealthNews = async ()=>{
-    const response = await fetch(HEALTH_NEWS+API_KEY);
-    // const response = await fetch("assets/health.json");
+    // const response = await fetch(HEALTH_NEWS+API_KEY);
+    const response = await fetch("assets/health.json");
     newsDataArr = [];
     if(response.status >= 200 && response.status < 300)
     {
@@ -164,8 +164,8 @@ const fetchHealthNews = async ()=>{
 }
 // for Science News
 const fetchScienceNews = async ()=>{
-    const response = await fetch(SCIENCE_NEWS+API_KEY);
-    // const response = await fetch("assets/science.json");
+    // const response = await fetch(SCIENCE_NEWS+API_KEY);
+    const response = await fetch("assets/science.json");
     newsDataArr = [];
     if(response.status >= 200 && response.status < 300)
     {
@@ -182,8 +182,8 @@ const fetchScienceNews = async ()=>{
 }
 // for Sports News
 const fetchSportsNews = async ()=>{
-    const response = await fetch(SPORTS_NEWS+API_KEY);
-    // const response = await fetch("assets/sports.json");
+    // const response = await fetch(SPORTS_NEWS+API_KEY);
+    const response = await fetch("assets/sports.json");
     newsDataArr = [];
     if(response.status >= 200 && response.status < 300)
     {
@@ -200,8 +200,8 @@ const fetchSportsNews = async ()=>{
 }
 // for Entertainment News
 const fetchTechnologyNews = async ()=>{
-    const response = await fetch(TECHNOLOGY_NEWS+API_KEY);
-    // const response = await fetch("assets/technology.json");
+    // const response = await fetch(TECHNOLOGY_NEWS+API_KEY);
+    const response = await fetch("assets/technology.json");
     newsDataArr = [];
     if(response.status >= 200 && response.status < 300)
     {
@@ -218,8 +218,8 @@ const fetchTechnologyNews = async ()=>{
 }
 // for Entertainment News
 const fetchEntertainmentNews = async ()=>{
-    const response = await fetch(ENTERTAINMENT_NEWS+API_KEY);
-    // const response = await fetch("assets/entertainment.json");
+    // const response = await fetch(ENTERTAINMENT_NEWS+API_KEY);
+    const response = await fetch("assets/entertainment.json");
     newsDataArr = [];
     if(response.status >= 200 && response.status < 300)
     {
@@ -326,7 +326,7 @@ const button1 = document.getElementById('show');
     var empt = document.forms["form1"]["e-mail"].value;
     if (empt.length == 0)
     {
-        alert("Please Enter your Email before you hit Subscribe button.");
+        alert("Please Enter your Email before you hit the Subscribe button.");
     }
     else if(disableButton) 
     {
