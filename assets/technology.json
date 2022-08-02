@@ -2,6 +2,64 @@
     "articles":
     [
         {
+
+            "author": "Tech Desk",
+            "content": "Google has started the process of rebranding Duo as Meet by merging both the apps for Android and iOS users. As per the report by 9to5Google, the platform is being updated for a wide set of users in … [+1566 chars]",
+            "description": "Google announced earlier this year that Duo and Meet will be merged to become a single platform that will provide video calling and other capabilities on multiple devices.",
+            "publishedAt": "2022-08-02T12:24:23Z",
+            "title": "Google Rolling Out The Merged Duo And Meet App For Android And iOS Users: All Details - News18",
+            "url": "https://www.news18.com/news/tech/google-rolling-out-the-merged-duo-and-meet-app-for-android-and-ios-users-all-details-5674849.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2022/03/google-meet-logo-164800843316x9.jpg"
+        },{
+
+            "author": "Pradeep Sahoo",
+            "content": "New Delhi: OnePlus Nord Buds CE earbuds have been launched in India on Monday. The true wireless stereo (TWS) earbuds feature a claimed total listening time of up to 20 hours with the charging case a… [+1675 chars]",
+            "description": "New Delhi: OnePlus Nord Buds CE earbuds have been launched in India on Monday. The true wireless stereo (TWS) earbuds feature a claimed total listening time of up to 20 hours with the charging case and up to 4.5 hours without the case. The Nord Buds",
+            "publishedAt": "2022-08-02T12:14:52Z",
+            "title": "OnePlus Nord Buds CE With Upto 20 Hours Battery Life, Bluetooth 5.2 Launched In India: All Details - Pragativadi",
+            "url": "https://pragativadi.com/oneplus-nord-buds-ce-with-upto-20-hours-battery-life-bluetooth-5-2-launched-in-india-all-details/",
+            "urlToImage": "https://pragativadi.com/wp-content/uploads/2022/08/Capture-1.png"
+        },
+        {
+
+            "author": "Bharat Upadhyay",
+            "content": "Nothing Phone 1 update download: The newly-launched Nothing Phone (1), who made news with its unique design, has received a new update. The Nothing Phone (1) which runs on Android 12 based Nothing OS… [+1592 chars]",
+            "description": "Nothing Phone (1) went on sale in India last month and the company will soon announce the second sale date of the smartphone soon. The phone comes with different storage options, and the 8GB/128GB is available for Rs 31,999, 8GB/256GB for Rs 34,999, and 12GB/…",
+            "publishedAt": "2022-08-02T12:11:45Z",
+            "title": "Nothing Phone 1 new update rolled out - Check new features, upgrades, major changes and more - Zee Business",
+            "url": "https://www.zeebiz.com/technology/mobiles/news-nothing-phone-update-new-update-rolled-out-with-new-features-upgrades-check-details-192391",
+            "urlToImage": "https://cdn.zeebiz.com/sites/default/files/2022/08/02/193034-untitled-design-2022-08-02t173850943.jpg"
+        },
+        {
+
+            "author": "Tech Desk",
+            "content": "Apple MacBook users have got a security alert from the Indian Computer Emergency Response Team (CERT-IN) recently. The notification says that macOS has been reported with multiple vulnerabilities. \r\n… [+1732 chars]",
+            "description": "Apple users generally get updates to fix any loopholes but even then you always have to be vigilant about such instances where the device is running outdated software.",
+            "publishedAt": "2022-08-02T11:50:06Z",
+            "title": "Indian Govt Warns MacBook, iPhone and iPad Users About This New Security Issue: Update Now - News18",
+            "url": "https://www.news18.com/news/tech/indian-govt-warns-macbook-iphone-and-ipad-users-about-this-new-security-issue-update-now-5674537.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2022/02/macbook-run-chrome-os-flex-164501944816x9.jpg"
+        },
+        {
+
+            "author": "TIMESOFINDIA.COM",
+            "content": "",
+            "description": "Infinix has expanded its smartphone lineup in India with the launch of its latest smartphone under the -- Hot 12 series.",
+            "publishedAt": "2022-08-02T11:21:00Z",
+            "title": "Infinix Hot 12 Pro with octa-core chipset, dual camera and 5000mAh battery launched at a starting price o - Times of India",
+            "url": "https://timesofindia.indiatimes.com/gadgets-news/infinix-hot-12-pro-with-octa-core-chipset-dual-camera-and-5000mah-battery-launched-at-a-starting-price-of-rs-10999/articleshow/93299121.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-93299121,width-1070,height-580,imgsize-5178,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+            "author": "HT Tech",
+            "content": "If you've been exploring the caves or roaming around at night time, you know how dangerous the Minecraft landscape can truly be. From hostile mobs to falling from a cliff, drowning and lava damage, t… [+2592 chars]",
+            "description": "Whether you’re in a battle or exploring the depths of a cave, you need food to restore health. But with limited slots, what are the best food items to carry that will heal you fast and give benefits. Find out in our Minecraft tips and tricks.",
+            "publishedAt": "2022-08-02T10:58:15Z",
+            "title": "Minecraft tips and tricks: Check out the best food items to help you heal FAST - HT Tech",
+            "url": "https://tech.hindustantimes.com/gaming/news/minecraft-tips-and-tricks-check-out-the-best-food-items-to-help-you-heal-fast-71659437585152.html",
+            "urlToImage": "https://images.hindustantimes.com/tech/img/2022/08/02/1600x900/image_1651235193256_1659437667431_1659437667431.webp"
+        },
+        {
             "author": "HT Tech",
             "content": "WhatsApp brought multi-device support feature in late 2021 enabling users to sign in to multiple devices at the same time. The feature is accessible on desktop and laptop, however, it is being specul… [+1700 chars]",
             "description": "WhatsApp is developing companion mode to let users access WhatsApp chat on two android phones at the same time.",

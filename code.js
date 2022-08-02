@@ -330,6 +330,7 @@ const button1 = document.getElementById('show');
     }
     else if(disableButton) 
     {
+        window.blur();
         button1.disabled = "disabled"; 
         dialog.show();   
         document.getElementById('em').value = "";
@@ -350,3 +351,4 @@ function myFunction() {
   var scrolled = (winScroll / height) * 100;
   document.getElementById("myBar").style.width = scrolled + "%";
 }
+

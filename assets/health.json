@@ -1,6 +1,56 @@
 {
     "articles":
     [
+       {
+
+           "author": "Livemint",
+           "content": "Amid a sudden surge in monkeypox cases globally, India reported 8 infections and one virus-related death, and with it, several apprehensions were raised regarding the spread and transmission of the v… [+2759 chars]",
+           "description": "Recently, three men tested positive for monkeypox without showing any symptoms",
+           "publishedAt": "2022-08-02T12:03:42Z",
+           "title": "Asymptomatic monkeypox cases can have other health complications: All you need to know | Mint - Mint",
+           "url": "https://www.livemint.com/news/india/asymptomatic-monkeypox-cases-can-have-other-health-complications-all-you-need-to-know-11659436038470.html",
+           "urlToImage": "https://images.livemint.com/img/2022/08/02/600x338/monkeypox_1658948214414_1659441744296_1659441744296.jpg"
+        }, 
+        {
+
+            "author": null,
+            "content": "A recent article published in Transplant Infectious Disease examined case reports on severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) evolution in immunosuppressed cohorts.\r\nStudy: Uncove… [+5563 chars]",
+            "description": "A recent article published in Transplant Infectious Disease examined case reports on SARS-CoV-2 evolution in immunosuppressed cohorts.",
+            "publishedAt": "2022-08-02T11:52:00Z",
+            "title": "What are the hidden sources of SARS-CoV-2 evolution? - News-Medical.Net",
+            "url": "https://www.news-medical.net/news/20220802/What-are-the-hidden-sources-of-SARS-CoV-2-evolution.aspx",
+            "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_721129_16594408749849481.jpg"
+        },
+        {
+
+            "author": null,
+            "content": null,
+            "description": null,
+            "publishedAt": "2022-08-02T11:26:00Z",
+            "title": "Can Zika Virus Be Detected Via Smartphone? Explains This Study | TheHealthSite.com - TheHealthSite",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMifGh0dHBzOi8vd3d3LnRoZWhlYWx0aHNpdGUuY29tL2Rpc2Vhc2VzLWNvbmRpdGlvbnMvemlrYS9jYW4temlrYS12aXJ1cy1iZS1kZXRlY3RlZC12aWEtc21hcnRwaG9uZS1leHBsYWlucy10aGlzLXN0dWR5LTg5ODA3Mi_SAQA?oc=5",
+            "urlToImage": null
+        },
+        {
+
+            "author": "Zarafshan Shiraz",
+            "content": "Liver diseases are quite prone these days as some patients inherit it genetically and some are caused due to alcohol or over-eating of fatty foods hence, there are several types of viruses that cause… [+3850 chars]",
+            "description": "Viral Hepatitis means damage to the liver which is caused by infectious and non-infectious causes. Doctors share tips on lifestyle measures and precautions to prevent liver damage due to Viral Hepatitis | Health",
+            "publishedAt": "2022-08-02T11:20:12Z",
+            "title": "Viral Hepatitis: Lifestyle measures and precautions to prevent liver damage - Hindustan Times",
+            "url": "https://www.hindustantimes.com/lifestyle/health/viral-hepatitis-lifestyle-measures-and-precautions-to-prevent-liver-damage-due-to-viral-hepatitis-101659437937920.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/08/02/1600x900/Collage_Maker-02-Aug-2022-04.37-PM_1659438327631_1659438340059_1659438340059.jpg"
+        },
+        {
+
+            "author": "TIMESOFINDIA.COM",
+            "content": "Did you know that you can get a fatty liver even without drinking any alcohol?\r\nYour liver performs 500+ vital metabolic functions every day that include removing toxins from the bodys blood supply, … [+9510 chars]",
+            "description": "Did you know that the top reason for a fatty liver is a poor diet!!! A diet that is rich in sugar, liquid, and indu",
+            "publishedAt": "2022-08-02T11:02:00Z",
+            "title": "Heal with foods: How eating right can manage fatty liver - Times of India",
+            "url": "https://timesofindia.indiatimes.com/life-style/food-news/heal-with-foods-how-eating-right-can-manage-fatty-liver/articleshow/93297757.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-93297757,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-89638/93297757.jpg"
+        },
         {
             "author": "Sue Hughes",
             "content": "Adding salt to food at the table was linked to a higher risk of premature death and a lower life expectancy, independent of diet, lifestyle, socioeconomic level, and pre-existing diseases, in a new s… [+9287 chars]",

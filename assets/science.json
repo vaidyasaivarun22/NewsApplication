@@ -1,6 +1,65 @@
 {
     "articles":
     [
+         {
+             "author": null,
+             "content": null,
+             "description": "A minor geomagnetic storm is likely to get triggered on Wednesday as high-speed solar winds from a \"hole\" in the sun's atmosphere are set to hit Earth's magn...",
+             "publishedAt": "2022-08-02T12:14:16Z",
+             "title": "Solar storm likely to hit the Earth on August 3rd, classified as weak | Oneindia news *Space - Oneindia News",
+             "url": "https://www.youtube.com/watch?v=0-P6x1k1kO0",
+             "urlToImage": "https://i.ytimg.com/vi/0-P6x1k1kO0/hqdefault.jpg"
+        },    
+        {
+
+            "author": null,
+            "content": "Amidst the Cold War, the Soviet Union launched the Sputnik 1 into an elliptical low Earth orbit in 1957, shocking the entire world and kickstarting a mad rush to explore space. It took five more year… [+3535 chars]",
+            "description": "European Space Agency has announced its plans to send yet another spacecraft to Venus - Articles from The Weather Channel | weather.com",
+            "publishedAt": "2022-08-02T10:42:49Z",
+            "title": "ESA-Led Envision Spacecraft Gears Up for Travel to Venus; Undergoes Aerobraking Test for Scheduled Launch by 2030 - The Weather Channel",
+            "url": "https://weather.com/en-IN/india/space/news/2022-08-02-esa-led-envision-spacecraft-gears-up-for-travel-to-venus",
+            "urlToImage": "https://s.w-x.co/in-envision.jpg"
+        },
+        {
+
+            "author": "Shaurya Tomer",
+            "content": "Top SectionsExplore Tech\r\n Copyright © HT Media Limited All rights reserved.",
+            "description": "Scientists have captured a stunning image of 30 Doradus, also known as the Tarantula Nebula. Located around 170,000 light years from Earth, it is one of the brightest star forming regions present in the Large Magellanic Cloud.",
+            "publishedAt": "2022-08-02T09:39:21Z",
+            "title": "STUNNING image of Tarantula Nebula captured by THIS reveolutionary telescope - HT Tech",
+            "url": "https://tech.hindustantimes.com/photos/stunning-image-of-tarantula-nebula-captured-by-this-reveolutionary-telescope-71659432526036.html",
+            "urlToImage": "https://images.hindustantimes.com/tech/img/2022/08/02/1600x900/SPACE-EXPLORATION-TARANTULA-0_1659432650966_1659432650966_1659432893669_1659432893669.JPG"
+        },
+        {
+
+            "author": "DNA Web Team",
+            "content": "Reported By:| Edited By: DNA Web Team |Source: DNA Web Desk |Updated: Aug 02, 2022, 04:18 PM ISTHubble Space Telescope images reveal a pair of overlapping galaxies, known as NGC 3314. However, the tw… [+1310 chars]",
+            "description": "There is no apparent disturbance in the motions of the two galaxies, and they are both travelling in opposite directions.",
+            "publishedAt": "2022-08-02T09:39:00Z",
+            "title": "NASA's Hubble Space Telescope captures galaxies in 'cosmic collision' - DNA India",
+            "url": "https://www.dnaindia.com/science/report-nasa-s-hubble-space-telescope-captures-galaxies-in-cosmic-collision-2973333",
+            "urlToImage": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/08/02/2527086-nasa-s-hubble-space-telescope-captures-galaxies-in-cosmic-collision.jpg"
+        },
+        {
+
+            "author": "Tech Desk",
+            "content": "A collaborative study has investigated the nature of dark matter surrounding galaxies as they appeared 12 billion years ago, which is billions of years older than the dark matter studied before. The … [+2594 chars]",
+            "description": "A collaborative study has observed the composition of dark matter as it existed 12 billion years ago;",
+            "publishedAt": "2022-08-02T09:32:55Z",
+            "title": "Scientists' research on oldest studied dark matter could break the standard cosmological model - The Indian Express",
+            "url": "https://indianexpress.com/article/technology/science/dark-matter-lambda-cdm-model-stand-cosmological-model-8065708/",
+            "urlToImage": "https://images.indianexpress.com/2022/08/Dark-matter-tunnel-clumpiness-lambda-cdm.jpg"
+        },
+        {
+
+            "author": "Udayavani",
+            "content": "Udayavani is now on Telegram.Click hereto join our channel and stay updated with the latest news.",
+            "description": "Washington D.C.: A bright and glowing image of the ‘gas giant planet’ Jupiter was captured by the world’s most powerful telescope, the James Webb Telescope. In the image...",
+            "publishedAt": "2022-08-02T09:23:00Z",
+            "title": "‘Glowing Jupiter’ image beamed back by James Webb Telescope - Udayavani English",
+            "url": "https://www.udayavani.com/english-news/glowing-jupiter-image-beamed-back-by-james-webb-telescope",
+            "urlToImage": "https://www.udayavani.com/wp-content/uploads/2022/08/jupiter-620x347.jpg"
+        },
         {
 
             "author": "AFP",
